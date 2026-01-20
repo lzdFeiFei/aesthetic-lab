@@ -1,0 +1,46 @@
+# 书籍文件（版权保护，不上传）
+books/**/*.pdf
+books/**/*.pptx
+books/**/*.ppt
+books/**/*.docx
+books/**/*.doc
+books/**/*.epub
+books/**/*.mobi
+
+# 但保留 README 索引文件
+!books/README.md
+!books/**/README.md
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.bak
+*.log
+
+# Node.js (如果未来添加前端项目)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Python (如果未来添加脚本)
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# 个人笔记草稿（可选）
+notes/**/draft/
+notes/**/*-draft.md
