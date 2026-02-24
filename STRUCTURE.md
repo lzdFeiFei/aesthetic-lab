@@ -18,6 +18,7 @@ aesthetic-lab/
 │
 ├── resources/                   # 在线资源分类目录
 │   ├── inspiration/             # 灵感来源
+│   │   ├── aesthetic-resources.md # 审美资源（Pinterest 类）
 │   │   ├── saas-landing.md      # SaaS 落地页
 │   │   ├── design-awards.md     # 设计奖项网站
 │   │   └── experiments.md       # 创意实验

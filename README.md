@@ -43,6 +43,7 @@ This is an evolving knowledge base and experimental ground.
 ### 🌐 在线资源
 
 #### 灵感来源
+- [审美资源（Pinterest 类）](resources/inspiration/aesthetic-resources.md) - 图片流与收藏类灵感站点清单
 - [SaaS 落地页](resources/inspiration/saas-landing.md) - 优秀的产品落地页设计
 - [设计奖项平台](resources/inspiration/design-awards.md) - 获奖作品和展示平台
 - [创意实验](resources/inspiration/experiments.md) - 打破常规的设计探索
