@@ -17,6 +17,26 @@ but to explore how aesthetic sense can be **cultivated** through:
 
 **👉 [快速开始指南](GETTING_STARTED.md)** - 新手从这里开始
 
+## 使用 VitePress 浏览文档
+
+项目已支持 VitePress，可把当前 Markdown 内容作为博客站点预览与部署。
+
+```bash
+# 安装依赖
+npm install
+
+# 本地开发（默认 http://localhost:5173）
+npm run docs:dev
+
+# 生产构建
+npm run docs:build
+
+# 本地预览构建结果
+npm run docs:preview
+```
+
+GitHub Actions 部署工作流位于 `.github/workflows/deploy.yml`，推送到 `main` 分支后会自动构建并发布到 GitHub Pages。
+
 ## What this project is NOT
 
 - Not an art tutorial

@@ -32,6 +32,8 @@ desktop.ini
 node_modules/
 npm-debug.log
 yarn-error.log
+.vitepress/cache/
+.vitepress/dist/
 
 # Python (如果未来添加脚本)
 __pycache__/

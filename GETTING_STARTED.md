@@ -2,6 +2,17 @@
 
 欢迎来到 Aesthetic Lab！这份指南帮助你快速上手。
 
+## 0. 先把站点跑起来（推荐）
+
+你可以用 VitePress 以博客形式浏览所有文档：
+
+```bash
+npm install
+npm run docs:dev
+```
+
+打开 `http://localhost:5173` 即可阅读和检索项目内容。
+
 ## 第一步：浏览资源
 
 从 [README.md](README.md) 的资源导航开始：
